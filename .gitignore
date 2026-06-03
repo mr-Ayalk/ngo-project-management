@@ -1,0 +1,1 @@
+# Dependencies\nnode_modules/\n.pnp\n.pnp.js\n\n# Testing\n.nyc_output\ncoverage\n\n# Production\nbuild/\ndist/\n.next/\nout/\n\n# Misc\n.DS_Store\n.env\n.env.local\n.env.development.local\n.env.test.local\n.env.production.local\n\n# Logs\nlogs\n*.log\nnpm-debug.log*\nyarn-debug.log*\nyarn-error.log*\n\n# IDE\n.idea/\n.vscode/\n*.swp\n*.swo\n*~\n\n# Prisma\nprisma/migrations/\n
