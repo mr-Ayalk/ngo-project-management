@@ -1,0 +1,1 @@
+/** @type {import('next').NextConfig} */\nconst nextConfig = {\n  reactStrictMode: true,\n  swcMinify: true,\n  images: {\n    domains: ['api.chapa.co', 'paypal.com'],\n  },\n};\n\nmodule.exports = nextConfig;\n
